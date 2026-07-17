@@ -254,6 +254,7 @@ markers:
       ', id: KR2m0010_krp_090-bkkkrnewl55}
   - {type: line-break, offset: 759, content: '', id: KR2m0010_WYG_090-4a02}
   - {type: punctuation, offset: 769, content: (, id: KR2m0010_krp_090-bkkpn1}
+  - {type: voice, offset: 769, length: 7, name: note, id: n1}
   - {type: substitution, offset: 770, original: 熈, replacement: 熙, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17668}}
   - {type: punctuation, offset: 773, content: /, id: KR2m0010_krp_090-bkkpn2}
   - {type: punctuation, offset: 776, content: ), id: KR2m0010_krp_090-bkkpn3}
@@ -281,6 +282,7 @@ markers:
       ', id: KR2m0010_krp_090-bkkkrnewl60}
   - {type: line-break, offset: 867, content: '', id: KR2m0010_WYG_090-4a07}
   - {type: punctuation, offset: 884, content: (, id: KR2m0010_krp_090-bkkpn4}
+  - {type: voice, offset: 884, length: 7, name: note, id: n2}
   - {type: substitution, offset: 885, original: 熈, replacement: 熙, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17668}}
   - {type: punctuation, offset: 888, content: /, id: KR2m0010_krp_090-bkkpn5}
   - {type: punctuation, offset: 891, content: ), id: KR2m0010_krp_090-bkkpn6}
@@ -341,6 +343,7 @@ markers:
       ', id: KR2m0010_krp_090-bkkkrnewl72}
   - {type: line-break, offset: 1068, content: '', id: KR2m0010_WYG_090-5a01}
   - {type: punctuation, offset: 1080, content: (, id: KR2m0010_krp_090-bkkpn7}
+  - {type: voice, offset: 1080, length: 9, name: note, id: n3}
   - {type: substitution, offset: 1081, original: 熈, replacement: 熙, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17668}}
   - {type: punctuation, offset: 1085, content: /, id: KR2m0010_krp_090-bkkpn8}
   - {type: punctuation, offset: 1089, content: ), id: KR2m0010_krp_090-bkkpn9}
@@ -1586,4 +1589,4 @@ markers:
 
       ', id: KR2m0010_krp_090-bkkkrnewl323}
   back: []
-hash: sha256:f141089f0a9e7df9d1986e803c5a2b8c5ae07800543e6b8226956e217e6cf893
+hash: sha256:a9e22e6756fe7ebab6b38fd98d0105d2df4a20540d9d09657be7fb4c453ca22d
